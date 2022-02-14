@@ -4,7 +4,12 @@ description: 'This resource contains information related to assignment 8: develo
   a well-posed research question.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/6417445c78fc8da8cc2254e873170515_MITESD_83F11_assn08.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_83F11_assn08.pdf
+type: OCWFile
 uid: 6417445c-78fc-8da8-cc22-54e873170515
 ---

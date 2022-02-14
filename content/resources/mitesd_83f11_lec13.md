@@ -4,7 +4,12 @@ description: This resource contains information related to engineering systems d
   seminar.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/bb3c19653f1047687d09909f06876891_MITESD_83F11_lec13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_83F11_lec13.pdf
+type: OCWFile
 uid: bb3c1965-3f10-4768-7d09-909f06876891
 ---
