@@ -9,6 +9,7 @@ image_metadata:
   credit: Image by MIT OpenCourseWare.
   image-alt: Strategies for advancing the engineering systems field.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: ids-900f11-th.jpg
 uid: 28495a03-27f1-7b30-96b1-ca1a4fb02bd5
