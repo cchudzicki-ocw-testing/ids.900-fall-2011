@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MITESD_83F11_lec12.pdf
-type: OCWFile
 uid: f802cfff-daac-603d-85b5-1d5ee19f66e7
 ---

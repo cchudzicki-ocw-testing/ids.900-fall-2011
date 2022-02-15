@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MITESD_83F11_lec08_discuss.pdf
-type: OCWFile
 uid: 7d47644d-b86c-04e2-1336-ead04bd3cb1c
 ---
