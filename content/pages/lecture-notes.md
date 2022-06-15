@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a full set of faculty lecture notes and a selection
+  of guest and discussion leader notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

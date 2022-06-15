@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of course deliverables and detailed descriptions
+  of each of these assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
