@@ -5,6 +5,7 @@ file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/c51f522
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
